@@ -1,0 +1,6 @@
+{
+  "name": "CodeNova",
+  "description": "Project-based technology internships in AI, Machine Learning, Python, Web Development, and Data Science.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
